@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: black;
+  background-color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -16,14 +16,14 @@ h1 {
   color: red;
 }  
   
-#movie-list {
+#movieList {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .movie {
-  border: 1px solid #ccc;
+  border: 1px solid rgb(182, 54, 54);
   border-radius: 10px;
   margin: 10px;
   padding: 10px;
@@ -31,9 +31,9 @@ h1 {
   background-color: lightblue;
 }
 
-.movie img {
-  max-width: 100%;
-}
+.movie image {
+  max-width: ;
+} 
 
 .pagination {
   margin-top: 20px;          
@@ -44,7 +44,7 @@ h1 {
 .page-link {
   margin: 0 5px;
   padding: 5px 10px;
-  background-color: #333;
+  background-color: skyblue;
   color: #fff;
   text-decoration: none;
   border-radius: 5px;
