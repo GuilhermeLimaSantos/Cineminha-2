@@ -26,7 +26,7 @@ const movies = [
   category: "Romance" },
 
   { name: "Super Mario Bros", 
-  image: "https://dx35vtwkllhj9.cloudfront.net/universalstudios/super-mario-bros/images/regions/us/onesheet.jpg", 
+  image: "https://cdn.awsli.com.br/800x800/1610/1610163/produto/208807923/poster-super-mario-bros-o-filme-i-f04111d3.jpg", 
   tickets: 110, 
   category: "Romance" },
 
@@ -102,9 +102,9 @@ const movies = [
 ];
 
 const movieList = document.getElementById("movieList");
-  const searchInput = document.getElementById("searchInput");
-  const categoryFilter = document.getElementById("categoryFilter");
-  const pagination = document.getElementById("pagination");
+const searchInput = document.getElementById("searchInput");
+const categoryFilter = document.getElementById("categoryFilter");
+const pagination = document.getElementById("pagination");
 
 function renderMovieList(pageNumber = 1) {
   const moviesPerPage = 10;
