@@ -18,7 +18,7 @@ const movies = [
   { name: "Elementos", 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdab6m1R38wYdsAjwcuGacJ80G27bD5oV0HlVR6aJoTS_3S3v", 
   tickets: 120, 
-  category: "Terror" },
+  category: "Romance" },
 
   { name: "Barbie", 
   image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfrQw_ilMVXBYmS4Cnen202Sqmuy7l1o9eMy04Ba1DCYvF367-", 
