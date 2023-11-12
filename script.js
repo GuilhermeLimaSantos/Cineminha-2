@@ -23,12 +23,12 @@ const movies = [
   { name: "Barbie", 
   image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfrQw_ilMVXBYmS4Cnen202Sqmuy7l1o9eMy04Ba1DCYvF367-", 
   tickets: 90, 
-  category: "Comédia" },
+  category: "Romance" },
 
   { name: "Super Mario Bros", 
   image: "https://dx35vtwkllhj9.cloudfront.net/universalstudios/super-mario-bros/images/regions/us/onesheet.jpg", 
   tickets: 110, 
-  category: "Comédia" },
+  category: "Romance" },
 
   { name: "Nimona", 
   image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg_qPNpCFkfh8m00LkjVgk3j7dEjpuowyGHfBQC8XL0l8V9zLZ", 
@@ -43,17 +43,17 @@ const movies = [
   { name: "A Chamada", 
   image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjDWJcz1ONJrRXRuEcn8rkZklqAKFbtGVVrG37nZg6H60I-ZrZ", 
   tickets: 60, 
-  category: "Terror" },
+  category: "Ação" },
 
   { name: "Guardiões da Galáxia", 
   image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1P_hV6E3_OlEq4MdFMQje5SyBUkAH0JKasP_iVJG4HMT69xn2", 
   tickets: 130, 
-  category: "Terror" },
+  category: "Ação" },
 
   { name: "Dino King - Viagem à Montanha do Fogo ", 
   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0ijLRGlMa3Us9ThvKzDnjvK1YFQE-h1N58NF6-ODFkxJ544w", 
   tickets: 95, 
-  category: "Comédia" },
+  category: "Ação" },
 
   { name: "A Noite das Bruxas", 
   image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-NvZ4l6sGpsZgfrC1sgIuXR3nN9sknbiUvZSG8IUkoxTjaeZo", 
@@ -63,17 +63,17 @@ const movies = [
   { name: "Os Guardiões", 
   image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZyDeXBdAZu-5gl_3YcUUL2HL3-yDLMHZzojkdK8I3rtd5BRI9", 
   tickets: 75, 
-  category: "Comédia" },
+  category: "Ação" },
 
   { name: "Besouro Azul", 
   image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLXZb6z_VGWUc5O-s7iMJ8QVWQNa3b6hp6HawTsbW8dOJ1RQxh", 
   tickets: 125, 
-  category: "Comédia" },
+  category: "Ação" },
 
   { name: "Adão Negro", 
   image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrULQHUpm3Zr60AXFAltaQkpo6DAe8FZmhSrYsa7t5DCUeaeF9", 
   tickets: 85, 
-  category: "Comédia" },
+  category: "Ação" },
 
   { name: "Terapia do Medo", 
   image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrFxpYCPPWiiOGG5pZttHFKywlfTzHHXPYKojERotZLpsiMO42", 
@@ -93,7 +93,7 @@ const movies = [
   { name: "2067", 
   image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUy7Dq51oPVZwnVzeDZUGDJWPRsYaSB2sN5F7Q0T2loxbJ0E0e", 
   tickets: 105, 
-  category: "Terror" },
+  category: "Açaõ" },
 
   { name: "Paralisia", 
   image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDv-CKwtsWxfwG1I7CBPgVz8J8leuP059DWIDSPSzO8TtLOHfW", 
